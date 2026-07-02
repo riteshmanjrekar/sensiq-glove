@@ -80,11 +80,11 @@ FSR Sensor reads analog pressure value
 MPU6050 reads accelerometer/gyroscope data
             ↓
   Determines hand orientation:
-  ┌─────────────────────────────────────┐
+  ┌─────────────────────────────────────────────────┐
   │ Palm UP       → Audio Bank A (e.g. Greetings)   │
   │ Palm SIDEWAYS → Audio Bank B (e.g. Requests)    │
   │ Palm DOWN     → Audio Bank C (e.g. Emergency)   │
-  └─────────────────────────────────────┘
+  └─────────────────────────────────────────────────┘
             ↓
   Same finger gesture → different track per bank
 ```
@@ -314,9 +314,9 @@ int fsrThreshold = 500;  // Adjust based on your FSR and finger pressure
 
 ## 👤 Author
 
-**Ritesh [Surname]**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**Ritesh Manjrekar]**
+- GitHub: [@riteshmanjrekar(https://github.com/riteshmanjrekar)
+- LinkedIn: (www.linkedin.com/in/ritesh-manjrekar-397007417)
 
 ---
 
