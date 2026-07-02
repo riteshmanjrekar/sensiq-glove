@@ -314,7 +314,7 @@ int fsrThreshold = 500;  // Adjust based on your FSR and finger pressure
 
 ## 👤 Author
 
-**Ritesh Manjrekar]**
+**[Ritesh Manjrekar]**
 - GitHub: [@riteshmanjrekar(https://github.com/riteshmanjrekar)
 - LinkedIn: (www.linkedin.com/in/ritesh-manjrekar-397007417)
 
